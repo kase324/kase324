@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kase324
-- 👀 I’m interested in learning Kubernetes and Docker.
 - 🌱 I’m currently learning Kubernetes and Docker.
 
 <!---
